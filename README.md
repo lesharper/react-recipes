@@ -1,6 +1,6 @@
-A project for getting recipes, thanks to the public API
+# A project for getting recipes, thanks to the public API
 
-API host: https://www.edamam.com/
+# API host: https://www.edamam.com/
 
 # Getting Started with Create React App
 
